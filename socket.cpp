@@ -45,8 +45,8 @@ int new_socket(char* domain, char* port){
 				return fd;
 }
 
+/*
 int main(){
-				/*
 				char buf[1024];
 				char port[3];
 				memset(buf, 0, 1024);
@@ -57,5 +57,5 @@ int main(){
 				new_socket(buf,port);
 				cout<<"return success"<<endl;
 				return 0;
-				*/
 }
+*/
